@@ -1,0 +1,13 @@
+*.o
+*.elf
+*.hex
+*.map
+*.lss
+*.sym
+*.eep
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
